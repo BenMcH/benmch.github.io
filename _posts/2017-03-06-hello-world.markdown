@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World!"
 date:   2017-03-06 01:15:37 -0600
-categories: blog me
+categories: blog
+tags: about me
 ---
 You can't have a blog from a programmer without the first post being Hello World! This isn't any different.
 
