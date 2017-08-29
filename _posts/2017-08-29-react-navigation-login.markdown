@@ -20,6 +20,8 @@ In this short blog post, I will be outlining the process to do so.
     splashScreen: { screen: SplashScreen },
     loggedOut: { screen: loggedOutNavigation },
     loggedIn: { screen: loggedInNavigation },
+  }, {
+    headerMode: 'none',
   })
 
   exports.LoggedOutNavigation = TabNavigator({
